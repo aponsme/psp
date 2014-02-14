@@ -1,0 +1,3 @@
+Creo una tabla (persona) con id(PK, AI), un nombre(varchar(45)), apellido(varchar(45))
+insert into persona(nombre,apellido) values ("ana","mena");
+insert into persona(nombre,apellido) values ("alicia","pons");
